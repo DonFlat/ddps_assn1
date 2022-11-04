@@ -1,3 +1,0 @@
-ERROR: Spark job com.intel.hibench.sparkbench.ml.DenseKMeans failed to run successfully.
-Hint: You can goto /var/scratch/ddps2206/HiBench/report/kmeans/spark/conf/../bench.log to check for detailed log.
-Opening log tail for you:
